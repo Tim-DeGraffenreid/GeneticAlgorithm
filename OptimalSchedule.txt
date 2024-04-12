@@ -1,0 +1,49 @@
+Optimal Schedule 
+
+Generation: 101, Fitness: 10.4500, AvgFitness: 9.0292, TotalFitness: 4514.6000
+
+SLA100A 
+	Facilitator: Glen
+	Room: Loft 206
+	Time: 1200 
+SLA100B 
+	Facilitator: Zeldin
+	Room: Beach 301
+	Time: 1500 
+SLA191A 
+	Facilitator: Uther
+	Room: Beach 301
+	Time: 1000 
+SLA191B 
+	Facilitator: Lock
+	Room: Frank 119
+	Time: 1100 
+SLA201 
+	Facilitator: Richards
+	Room: Loft 206
+	Time: 1000 
+SLA291 
+	Facilitator: Singer
+	Room: Loft 310
+	Time: 1500 
+SLA303 
+	Facilitator: Numen
+	Room: Frank 119
+	Time: 1300 
+SLA304 
+	Facilitator: Lock
+	Room: Beach 201
+	Time: 1200 
+SLA394 
+	Facilitator: Zeldin
+	Room: Roman 201
+	Time: 1300 
+SLA449 
+	Facilitator: Banks
+	Room: Beach 301
+	Time: 1200 
+SLA451 
+	Facilitator: Zeldin
+	Room: Logos 325
+	Time: 1400 
+
